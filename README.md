@@ -66,3 +66,16 @@ To preview this project
 
 - [@devSubham35](https://www.github.com/devSubham35)
 
+
+
+### In building ACONews, I encountered several challenges, which helped enhance my development skills:
+
+- API Integration & Data Handling: The biggest challenge was efficiently integrating the gnews.io API to fetch and display news. Initially, data rendering was slow due to improper handling of asynchronous API calls. I overcame this by utilizing Axios for streamlined requests and improved performance by optimizing the component re-renders in React.
+
+- Responsive UI: Designing a responsive UI with Tailwind CSS required extra attention, especially in handling multiple screen sizes. I solved this by leveraging Tailwind's responsive utilities and testing on various devices to ensure a seamless user experience.
+
+- Performance with Vite: During the development phase, there were issues with the app’s hot-reloading performance in Vite. I tackled this by updating the dependencies and tweaking the project’s configuration, which significantly improved the speed.
+
+- Error Handling: I initially had limited error handling for API failures, which led to app crashes during poor network conditions. I introduced better error handling and fallback UI elements to gracefully manage errors.
+
+Through perseverance and researching best practices, I was able to overcome these obstacles, and the app now runs efficiently.
