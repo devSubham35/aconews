@@ -11,6 +11,7 @@ ACONews is a modern news application built with React and Vite, styled with Tail
 - React Icons for improved UI/UX
 - Built with React Vite for fast development and optimized performance.
 
+![Uploading Aconews.png…]()
 
 
 ## To Run the project
