@@ -42,29 +42,12 @@ GNews.io API - External news API used for fetching news articles.
 
 
 
-## Deployment
-
-To run this project
-
-```bash
-  yarn run dev
-```
-To Build this project
-
-```bash
-  yarn build
-```
-To preview this project
-
-```bash
-  yarn preview
-```
-
-
 
 ## Authors
 
 - [@devSubham35](https://www.github.com/devSubham35)
+- [@verceldeploymentlink](https://aconews-nine.vercel.app)
+- [@firebasedeploymentlink](https://aconews-881f6.web.app)
 
 
 
